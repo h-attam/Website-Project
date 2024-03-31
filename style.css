@@ -1,0 +1,48 @@
+.resim-slinder{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway' , sans-serif;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid #212529;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ibeyaz{
+    color: #212529;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.igri{
+    color: #212529;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.ekip-card img:hover{
+    opacity: 0.8;
+}
+
+.galeri{
+    background-color: #f2f2f2;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
